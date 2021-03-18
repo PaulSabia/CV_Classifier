@@ -6,6 +6,8 @@ Embaucher les bons talents est un défi pour toutes les entreprises. Ce défi es
 
 Le projet consiste donc à utiliser des algorithmes d'apprentissage automatique afin de classifier des CV dans 25 classes différentes. Le dataset est composé d'un ensemble d'environ 900 CV labellisés, 20% d'entre eux nous servirons pour les tests. 
 
+![](Images/histplot.PNG)
+
 ## Formation du modèle :
 
 Pour la formation et l'entrainement du modèle nous utiliserons le modèle `Word2vec` du module `gensim` et `RandomForestClassifier`de `sklearn`. 
