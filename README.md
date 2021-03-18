@@ -23,5 +23,5 @@ Avec la méthode du `Sec de Centroïdes` nous obtenons une précision de **99,2*
 
 ![](Images/confusion_matrix.PNG)
 
-**Le notebook est disponible [ici](CV_classifier.ipynb)**
+### Le notebook est disponible [ici](CV_classifier.ipynb)
 
